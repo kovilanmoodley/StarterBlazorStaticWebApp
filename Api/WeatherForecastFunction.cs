@@ -38,7 +38,7 @@ namespace ApiIsolated
 
         private string GetSummary(int temp)
         {
-            var summary = "Mild";
+            var summary = "Mildish";
 
             if (temp >= 32)
             {
